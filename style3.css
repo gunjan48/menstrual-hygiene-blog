@@ -1,0 +1,83 @@
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: sans-serif;
+        background-color: rgba(241, 230, 216, 0.829);
+        text-align: center;
+    }
+    
+    .menu-bar {
+        background: rgb(0, 100, 0);
+        text-align: center;
+    }
+    
+    .menu-bar ul {
+        display: inline-flex;
+        list-style: none;
+        color: #fff;
+    }
+    
+    .menu-bar ul li {
+        width: 120px;
+        margin: 15px;
+        padding: 15px
+    }
+    
+    .menu-bar ul li a {
+        text-decoration: none;
+        color: #fff;
+    }
+    
+    .IMAGE {
+        height: 300px;
+        width: 300px;
+        float: center;
+        margin: 20px;
+    }
+    
+    .Heading1 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: rgb(131, 107, 102);
+        color: rgb(8, 44, 41);
+        margin: 25px;
+        padding: 10px;
+    }
+    
+    .Heading2 {
+        font-size: 25px;
+        font-weight: bold;
+        text-decoration: rgb(131, 107, 102);
+        color: rgb(14, 54, 50);
+        margin: 25px;
+        padding: 10px;
+    }
+    
+    .Heading3 {
+        font-size: 25px;
+        font-weight: bold;
+        text-decoration: rgb(131, 107, 102);
+        color: rgb(10, 49, 45);
+        margin: 25px;
+        padding: 10px;
+    }
+    
+    .Para1 {
+        font-size: 20px;
+        font-weight: normal;
+        padding: 30px;
+    }
+    
+    .TIPS {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    
+    .LINK {
+        margin: 35px;
+        padding: 10px;
+    }
