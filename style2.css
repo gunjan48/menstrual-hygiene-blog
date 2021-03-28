@@ -65,4 +65,6 @@ body {
 .menu-bar ul li a {
     text-decoration: none;
     color: #fff;
+}.active:hover {
+    background-color: rgb(29, 240, 152);
 }
